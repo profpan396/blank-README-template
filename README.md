@@ -1,3 +1,4 @@
+To copy the contents of this file, click on <img src="./images/raw-copy-button.png"> and paste into your own README    
 For a guide on how to fill this out, go [here](https://github.com/amarpan/readme-writing-tutorial).
 
 # <h1 align="center">:school_satchel: :school: PROJECT TITLE :school: :school_satchel: </h1>
