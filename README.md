@@ -41,7 +41,7 @@ What is your app? What need does it meet and how? Is there any relevant backgrou
 </details>
 
 ## Technologies Used
-MongoDB Atlas | Express | React | Node.js | JavaScript | Python | Django | PostgreSQL | EJS | Google Materialize UI | Semantic UI | JSX | Mongoose ODM | JWT Auth | Google Oauth | AWS S3 | Heroku | GitHub Pages | draw.io | Lucidchart | HTML5 | CSS |   
+MongoDB Atlas | Express | React | Node.js | JavaScript | Python | Django | PostgreSQL | EJS | Google Materialize UI | Semantic UI | JSX | Mongoose ODM | JSON Web Token Authorization | Google Oauthorization 2.0 | AWS S3 | Heroku | GitHub Pages | draw.io | Lucidchart | HTML5 | CSS | npm | nodemon  
 
 
 ## Getting Started
@@ -49,7 +49,7 @@ MongoDB Atlas | Express | React | Node.js | JavaScript | Python | Django | Postg
 <details>
 <summary>Walkthrough Title</summary>
  
-1. First, the user should do this
+1. First, the user should do this.
 
 2. Next, the user can now do this.
  
