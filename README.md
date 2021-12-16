@@ -1,5 +1,6 @@
 To copy the contents of this file, click on <img src="./images/raw-copy-button.png"> in the above toolbar and paste into your own README.    
 For a guide on how to fill this out, go [here](https://github.com/amarpan/readme-writing-tutorial).
+ ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.blank-README-template)
 
 # <h1 align="center">:school_satchel: :school: PROJECT TITLE :school: :school_satchel: </h1>
 ### <h3 align="center">https://deployedlink.herokuapp.com/</h3>
